@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![Alt text](https://github.com/freddyvillabona/CO2_PIB_Population/blob/master/image.svg)
 
 <!---
 freddyvillabona/freddyvillabona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
