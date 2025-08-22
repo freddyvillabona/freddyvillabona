@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 ![Alt text](https://github.com/freddyvillabona/CO2_PIB_Population/blob/master/image.svg)
 
 ![Alt text](https://github.com/freddyvillabona/notes_ggplot2/blob/master/img.svg)
