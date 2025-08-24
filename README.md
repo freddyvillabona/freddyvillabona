@@ -8,6 +8,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyvillabona&show_icons=true&theme=transparent)
 
 
+
+![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
+
+
 ![Alt text](https://github.com/freddyvillabona/CO2_PIB_Population/blob/master/image.svg)
 
 ![Alt text](https://github.com/freddyvillabona/notes_ggplot2/blob/master/img.svg)
