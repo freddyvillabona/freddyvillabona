@@ -7,6 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyvillabona&show_icons=true&theme=transparent)
 
+api/top-langs?username=freddyvillabona
 
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
