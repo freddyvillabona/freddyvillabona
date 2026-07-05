@@ -9,9 +9,9 @@ hite_heart
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=freddyvillabona)
 
 
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=freddyvillabona&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=freddyvillabona&layout=donut&theme=dark&v=1)
 
-![Freddy's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=freddyvillabona&show_icons=true&theme=dark)
+![Freddy's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=freddyvillabona&show_icons=true&theme=dark&v=1)
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
 
