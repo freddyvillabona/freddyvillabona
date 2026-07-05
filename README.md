@@ -11,7 +11,7 @@ hite_heart
 
 ![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=freddyvillabona&layout=donut&theme=dark)
 
-![Freddy's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercelapp/api?username=freddyvillabona&show_icons=true&theme=dark)
+![Freddy's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=freddyvillabona&show_icons=true&theme=dark)
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
 
