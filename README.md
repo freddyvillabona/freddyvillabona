@@ -8,6 +8,9 @@ hite_heart
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=freddyvillabona)
 
+![R](https://shields.io)
+![Python](https://shields.io)
+![HTML](https://shields.io)
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
 
