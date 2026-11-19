@@ -8,7 +8,7 @@ hite_heart
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=freddyvillabona)
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://vercel.app)
 
 
 
