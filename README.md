@@ -8,9 +8,11 @@ hite_heart
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=freddyvillabona)
 
-![R](https://shields.io)
-![Python](https://shields.io)
-![HTML](https://shields.io)
+| Lenguaje | Dominio / Uso | Porcentaje |
+| :--- | :--- | :---: |
+| **R** | `█████████░░░░░░░░░░░` | **45%** |
+| **Python** | `████████░░░░░░░░░░░░` | **40%** |
+| **HTML** | `███░░░░░░░░░░░░░░░░░` | **15%** |
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
 
