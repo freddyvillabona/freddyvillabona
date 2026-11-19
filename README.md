@@ -8,7 +8,7 @@ hite_heart
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=freddyvillabona)
 
-| Lenguaje | Dominio / Uso | Porcentaje |
+| Lang | Use | Percentage |
 | :--- | :--- | :---: |
 | **R** | `█████████░░░░░░░░░░░` | **65%** |
 | **Python** | `████████░░░░░░░░░░░░` | **20%** |
