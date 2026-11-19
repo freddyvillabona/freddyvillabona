@@ -10,8 +10,8 @@ hite_heart
 
 | Lenguaje | Dominio / Uso | Porcentaje |
 | :--- | :--- | :---: |
-| **R** | `█████████░░░░░░░░░░░` | **45%** |
-| **Python** | `████████░░░░░░░░░░░░` | **40%** |
+| **R** | `█████████░░░░░░░░░░░` | **65%** |
+| **Python** | `████████░░░░░░░░░░░░` | **20%** |
 | **HTML** | `███░░░░░░░░░░░░░░░░░` | **15%** |
 
 ![Alt text](https://github.com/freddyvillabona/fv/blob/main/posts/coffee/cafe1.png)
